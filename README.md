@@ -23,7 +23,7 @@ This project uses the following environment variables:
 # Getting started
 - Clone the repository
 ```
-git clone  https://github.com/NavaneethakrishnanKannan/fdk-node
+git clone  https://github.com/NavaneethakrishnanKannan/fdk-node-v1.git
 ```
 - Install dependencies
 ```
